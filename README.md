@@ -3,7 +3,7 @@
 
 0. Create a new project folder `password-generator`, then generate a `package.json` using the command `npm init` (and `git init` and commit each step of your work) ; create an empty `my_wonderful_program.js`, and make it print "Node rocks!" in the console when running `node my_wonderful_program.js`
 
-1. Write a function that generate a random password, meaning a random string of characters (taking as argument the desired size of the password), do not hesitate to ask [SO](https://stackoverflow.com/questions/1349404/generate-random-string-characters-in-javascript) about it.
+1. Write a function that generate a random password, meaning a random string of characters (taking as argument the desired size of the password), do not hesitate to ask [SO] about it.(            https://stackoverflow.com/questions/1349404/generate-random-string-characters-in-javascript)
 
 2. What about having instead the password copied to the clipboard without be printed on the screen? `npm install --save clipboardy` and import [`clipboardy`](https://www.npmjs.com/package/clipboardy), do you spot what change in your `package.json`?
 
